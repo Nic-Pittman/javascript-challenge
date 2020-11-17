@@ -1,6 +1,8 @@
 Nic Pittman
 ### javascript-challenge
 
+https://nic-pittman.github.io/javascript-challenge/
+
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 # Background
