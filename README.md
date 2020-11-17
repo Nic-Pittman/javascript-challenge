@@ -38,3 +38,6 @@ You can handle this... right? The planet Earth needs to know what we have found!
 3.state
 4.country
 5.shape
+
+![filter_table](https://user-images.githubusercontent.com/69124282/99401996-da815500-28b6-11eb-9d2a-21ddc98e32de.jpg)
+
