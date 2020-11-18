@@ -36,11 +36,11 @@ https://nic-pittman.github.io/javascript-challenge/
 
 - Using multiple input tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
-1.date/time /n
-2.city
-3.state
-4.country
-5.shape
+- 1.date/time 
+- 2.city
+- 3.state
+- 4.country
+- 5.shape
 
 ![filter_table](https://user-images.githubusercontent.com/69124282/99401996-da815500-28b6-11eb-9d2a-21ddc98e32de.jpg)
 
